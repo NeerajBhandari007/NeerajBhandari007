@@ -21,8 +21,8 @@
 <br>
 <p align="center">
 <a href="https://github.com/NeerajBhandari007">
-<img align="center" alt="Ajay's Github stats"
-src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=AjayRawat0706&show_icons=true&hide_border=true&count_private=true&bg_color=22272e&title_color=00ffff&text_color=ffffff&icon_color=ffffff"/>
+<img align="center" alt="Neeraj's stats"
+src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=NeerajBhandari007&show_icons=true&hide_border=true&count_private=true&bg_color=22272e&title_color=00ffff&text_color=ffffff&icon_color=ffffff"/>
 </a>
    </p>
  <br>
