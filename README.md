@@ -17,10 +17,10 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![BootsTrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-<h2 align="center">My Github Statistics 🔥</h2>   
+<h2 align="center">My Github Statistics </h2>   
 <br>
 <p align="center">
-<a href="https://github.com/AjayRawat0706">
+<a href="https://github.com/NeerajBhandari007">
 <img align="center" alt="Ajay's Github stats"
 src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=AjayRawat0706&show_icons=true&hide_border=true&count_private=true&bg_color=22272e&title_color=00ffff&text_color=ffffff&icon_color=ffffff"/>
 </a>
