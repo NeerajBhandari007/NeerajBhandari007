@@ -1,10 +1,10 @@
 🌱 I’m currently learning everything 📝
 - 👯 I’m looking to collaborate with other content creators 🎥
 - 👨‍💻 2022 Goals: Contribute more to Open Source projects 👨‍💻
-- 📫 How to reach me *ajayrawat0706@gmail.com*
+- 📫 How to reach me *neerajb123321@gmail.com*
 
 
-  <hr><img src="https://komarev.com/ghpvc/?username=AjayRawat0706&label=Profile%20views&color=0e75b6&style=flat" alt="ajay" /> </p>
+  <hr><img src="https://komarev.com/ghpvc/?username=NeerajBhandari007&label=Profile%20views&color=0e75b6&style=flat" alt="ajay" /> </p>
 
 
 ## Connect with me:
