@@ -28,7 +28,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=NeerajBhanda
  <br>
   <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AjayRawat0706&theme=onedark" alt="Neeraj" /> 
+    <img src="https://github-profile-trophy.vercel.app/?username=NeerajBhandari007&theme=onedark" alt="Neeraj" /> 
   </a>
 </p>
  <br>
@@ -50,5 +50,5 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=NeerajBhanda
  <h2 align="center">My contribution Graph 📈📉</h2>
 <p align="center">
   <a href="https://github.com/NeerajBhandari007">
-    <img src="https://activity-graph.herokuapp.com/graph?username=AjayRawat0706&theme=xcode"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=NeerajBhandari007&theme=xcode"/>
   </a>
