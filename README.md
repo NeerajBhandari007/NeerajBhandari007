@@ -4,13 +4,13 @@
 - 📫 How to reach me *neerajb123321@gmail.com*
 
 
-  <hr><img src="https://komarev.com/ghpvc/?username=NeerajBhandari007&label=Profile%20views&color=0e75b6&style=flat" alt="ajay" /> </p>
+  <hr><img src="https://komarev.com/ghpvc/?username=NeerajBhandari007&label=Profile%20views&color=0e75b6&style=flat" alt="Neeraj" /> </p>
 
 
 ## Connect with me:
 <!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ajayrawat0706@gmail.com) -->
 [![Instagram](https://img.shields.io/badge/Ajay-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/__ajay__rawat/) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-rawat-78087a239/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-bhandari-6bb11319b/)
 
 
 ## Languages and Tools ⚙️:
