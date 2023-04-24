@@ -1,5 +1,5 @@
 🌱 I’m currently learning everything 📝
-- 👯 I’m looking to collaborate with other content creators 🎥
+- 👯 I’m looking to collaborate with other Programmers 🎥
 - 👨‍💻 2022 Goals: Contribute more to Open Source projects 👨‍💻
 - 📫 How to reach me *neerajb123321@gmail.com*
 
