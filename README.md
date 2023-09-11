@@ -8,10 +8,11 @@
 
 
 ## Connect with me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge)](https://portfolionb.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](neerajb123321@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/neerajbhandari5523/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-bhandari-6bb11319b/)
-[![Portfolio](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://portfolionb.netlify.app/)
+
 
 
 ## Languages and Tools ⚙️:
